@@ -11,7 +11,7 @@ Team Members -
     Omanshu Mahawar
     Shreeya Sanjay Sand (Team Lead)
     Shrvan Warke
-    Summanth Reddy
+    Sumanth Reddy
    
    
 Project Description - 
