@@ -16,7 +16,7 @@ Team Members -
     
     Shrvan Warke
     
-    Summanth Reddy
+    Sumanth Reddy
    
    
 Project Description -
